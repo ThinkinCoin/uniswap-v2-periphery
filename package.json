@@ -1,6 +1,6 @@
 {
   "name": "@thinkincoin-libs/uniswap-v2-periphery",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
   "engines": {
     "node": ">=10"
@@ -15,8 +15,8 @@
     "contracts"
   ],
   "dependencies": {
-    "@uniswap/lib": "4.0.1-alpha",
-    "@thinkincoin-libs/uniswap-v2-core": "1.0.2"
+    "@thinkincoin-libs/uniswap-v2-core": "1.0.2",
+    "@uniswap/lib": "4.0.1-alpha"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
